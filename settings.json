@@ -1,5 +1,9 @@
 {
-    "workbench.colorTheme": "Visual Studio Dark",
+    "workbench.colorTheme": "Default Dark Modern",
     "workbench.sideBar.location": "right",
-    "window.commandCenter": true
+    "window.commandCenter": true,
+    "editor.minimap.enabled": true,
+    "editor.minimap.renderCharacters": false,
+    "editor.lineNumbers": "relative",
+    "editor.formatOnSave": true
 }
