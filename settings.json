@@ -2,8 +2,18 @@
     "workbench.colorTheme": "Default Dark Modern",
     "workbench.sideBar.location": "right",
     "window.commandCenter": true,
+    // editor - minimap
     "editor.minimap.enabled": true,
     "editor.minimap.renderCharacters": false,
+    // editor
     "editor.lineNumbers": "relative",
-    "editor.formatOnSave": true
+    "editor.formatOnSave": true,
+    // vscodevim extension
+    "vim.handleKeys": {
+        "<C-d>": true, // default
+        "<C-s>": false, // default
+        "<C-z>": false, // default
+        "<C-p>": false, // allow find files
+    },
+    "vim.leader": "<space>"
 }
