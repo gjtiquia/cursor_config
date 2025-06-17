@@ -4,8 +4,8 @@ inspired by https://earthly.dev/blog/vscode-git/
 
 ## where i belong
 
-`settings.json` in `~/.config/Cursor/User/settings.json`
-`keybindings.json` in `~/.config/Cursor/User/keybindings.json`
+- `settings.json` in `~/.config/Cursor/User/settings.json`
+- `keybindings.json` in `~/.config/Cursor/User/keybindings.json`
 
 ## setup
 
