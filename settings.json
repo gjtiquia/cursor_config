@@ -15,5 +15,16 @@
         "<C-z>": false, // default
         "<C-p>": false, // allow find files
     },
-    "vim.leader": "<space>"
+    "vim.leader": "<space>",
+    "git.autofetch": true,
+    "vim.normalModeKeyBindings": [
+        {
+            "before": [
+                "K"
+            ],
+            "commands": [
+                "editor.action.showHover"
+            ],
+        },
+    ]
 }
